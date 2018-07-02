@@ -1,0 +1,19 @@
+Location CBD Wicked Automatic         # Location CBD has Wicked campervan with automatic transmission
+Location CBD Zeppelin Automatic       # Location CBD has Zeppelin campervan with automatic transmission
+Location CBD Floyd Automatic          # Location CBD has Floyd campervan with automatic transmission
+Location Penrith Queen Manual         # Location Penrith has Queen campervan with manual transmission
+Location Cremorne Ramones Automatic   # Location Cremorne has Ramones campervan with automatic transmission
+Location Cremorne Nirvana Automatic   # Location Cremorne has Nirvana campervan with automatic transmission
+Location Sutherland Purple Manual     # Location Sutherland has Purple campervan with manual transmission
+Location Sutherland Hendrix Manual    # Location Sutherland has Hendrix campervan with manual transmission
+Location Sutherland Eagle Manual      # Location Sutherland has Eagle campervan with manual transmission
+
+Request 1 1 Mar 1 1 Mar 2 5 Automatic 4 Manual
+Request 2 1 Mar 2 1 Mar 3 5 Automatic 4 Manual   # No hour gap, fails
+Request 2 2 Mar 2 1 Mar 3 5 Automatic 4 Manual   # Hour gap
+Change 2 2 Mar 2 1 Mar 3 5 Automatic 4 Manual    # Changes skip one we are going to delete
+Change 2 2 Mar 2 1 Mar 5 5 Automatic 3 Manual
+Request 3 1 Mar 6 1 Mar 7 1 Automatic -3 Manual
+Request 3 1 Mar 6 1 Mar 7 5 Automatic            # Short input
+Request 4 1 Mar 6 1 Mar 7 4 Manual   
+Print CBD

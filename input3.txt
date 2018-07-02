@@ -1,0 +1,51 @@
+Location CBD Wicked Automatic         # Location CBD has Wicked campervan with automatic transmission
+Location CBD Zeppelin Automatic       # Location CBD has Zeppelin campervan with automatic transmission
+Location CBD Floyd Automatic          # Location CBD has Floyd campervan with automatic transmission
+Location Penrith Queen Manual         # Location Penrith has Queen campervan with manual transmission
+Location Cremorne Ramones Automatic   # Location Cremorne has Ramones campervan with automatic transmission
+Location Cremorne Nirvana Automatic   # Location Cremorne has Nirvana campervan with automatic transmission
+Location Sutherland Purple Manual     # Location Sutherland has Purple campervan with manual transmission
+Location Sutherland Hendrix Manual    # Location Sutherland has Hendrix campervan with manual transmission
+Location Sutherland Eagle Manual      # Location Sutherland has Eagle campervan with manual transmission
+
+Request 1 1 Mar 1 1 Mar 2 5 Automatic 4 Manual
+Request 2 1 Mar 3 1 Mar 4 5 Automatic 4 Manual
+Request 3 1 Mar 5 1 Mar 6 5 Automatic 4 Manual
+Request 4 1 Mar 7 1 Mar 8 5 Automatic 4 Manual
+Request 5 1 Mar 9 1 Mar 10 5 Automatic 4 Manual
+Request 6 1 Mar 11 1 Mar 12 5 Automatic 4 Manual
+Request 7 1 Mar 13 1 Mar 14 5 Automatic 4 Manual
+Request 8 1 Mar 15 1 Mar 16 5 Automatic 4 Manual
+Request 9 1 Mar 17 1 Mar 18 5 Automatic 4 Manual
+Request 10 1 Mar 19 1 Mar 20 5 Automatic 4 Manual
+Print CBD
+Change 1 1 Jan 2 1 Jan 3 5 Automatic 4 Manual
+Change 2 1 Jan 4 1 Jan 5 5 Automatic 4 Manual
+Change 3 1 Jan 6 1 Jan 7 5 Automatic 4 Manual
+Change 4 1 Jan 8 1 Jan 9 5 Automatic 4 Manual
+Change 5 1 Jan 10 1 Jan 11 5 Automatic 4 Manual
+Change 6 1 Jan 12 1 Jan 13 5 Automatic 4 Manual
+Change 7 1 Jan 14 1 Jan 15 5 Automatic 4 Manual
+Change 8 1 Jan 16 1 Jan 17 5 Automatic 4 Manual
+Change 9 1 Jan 18 1 Jan 19 5 Automatic 4 Manual
+Change 10 1 Jan 20 1 Jan 21 5 Automatic 4 Manual
+Print Sutherland
+Cancel 1
+Cancel 2
+Cancel 3
+Cancel 4
+Cancel 5
+Cancel 6
+Cancel 7
+Cancel 8
+Cancel 9
+Cancel 10
+
+Request 1 23 Mar 25 12 Mar 26 3 Automatic 1 Manual
+Request 2 12 Mar 24 15 Mar 27 1 Manual
+Request 3 13 Mar 26 21 Mar 26 2 Automatic 2 Manual
+Change 1 23 Mar 27 23 Mar 29 3 Manual 2 Automatic
+Request 4 11 Mar 25 09 Mar 26 1 Automatic
+Cancel 3
+Request 5 11 Mar 26 09 Mar 27 4 Manual 
+Print CBD

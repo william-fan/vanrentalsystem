@@ -1,0 +1,17 @@
+Booking 1 CBD Wicked, Zeppelin, Floyd; Penrith Queen; Cremorne Ramones, Nirvana; Sutherland Purple, Hendrix, Eagle
+Booking rejected
+Booking 2 CBD Wicked, Zeppelin, Floyd; Penrith Queen; Cremorne Ramones, Nirvana; Sutherland Purple, Hendrix, Eagle
+Change 2 CBD Wicked, Zeppelin, Floyd; Penrith Queen; Cremorne Ramones, Nirvana; Sutherland Purple, Hendrix, Eagle
+Change 2 CBD Wicked, Zeppelin, Floyd; Penrith Queen; Cremorne Ramones, Nirvana; Sutherland Purple, Hendrix
+Booking rejected
+Booking 3 CBD Wicked, Zeppelin, Floyd; Cremorne Ramones, Nirvana
+Booking 4 Penrith Queen; Sutherland Purple, Hendrix, Eagle
+CBD Wicked 01:00 Mar 01 01:00 Mar 02
+CBD Wicked 02:00 Mar 02 01:00 Mar 05
+CBD Wicked 01:00 Mar 06 01:00 Mar 07
+CBD Zeppelin 01:00 Mar 01 01:00 Mar 02
+CBD Zeppelin 02:00 Mar 02 01:00 Mar 05
+CBD Zeppelin 01:00 Mar 06 01:00 Mar 07
+CBD Floyd 01:00 Mar 01 01:00 Mar 02
+CBD Floyd 02:00 Mar 02 01:00 Mar 05
+CBD Floyd 01:00 Mar 06 01:00 Mar 07
